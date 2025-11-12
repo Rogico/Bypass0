@@ -1,3 +1,6 @@
 {
-   "bypassVersion": 1 
+   "bypassVersion": 1,
+   "version": "1.0.0",
+  "url": "https://example.com/app.apk",
+  "message": "يوجد تحديث جديد يحل مشاكل الأداء ويضيف مميزات جديدة"
 } 
